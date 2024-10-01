@@ -1,0 +1,7 @@
+C:\Users\denys\source\repos\Race_app\Race_app\bin\Debug\Race_app.exe.config
+C:\Users\denys\source\repos\Race_app\Race_app\bin\Debug\Race_app.exe
+C:\Users\denys\source\repos\Race_app\Race_app\bin\Debug\Race_app.pdb
+C:\Users\denys\source\repos\Race_app\Race_app\obj\Debug\Race_app.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\Race_app\Race_app\obj\Debug\Race_app.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\Race_app\Race_app\obj\Debug\Race_app.exe
+C:\Users\denys\source\repos\Race_app\Race_app\obj\Debug\Race_app.pdb
